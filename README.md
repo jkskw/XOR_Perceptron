@@ -1,4 +1,3 @@
-# DCVRP Solved With Genetic Algorithm
 ## Table of contents
 - [Intorduction](#introduction)
     - [Rosenblatt  Perceptron](#rosenblatt-perceptron)
@@ -62,7 +61,7 @@ The above figure shows attempts to divide the linearly inseparable XOR problem u
 
 <h3 id="standard">mlp_standard.py</h3>
 
-The *[mlp_standard.py](https://github.com/jkskw/XOR_Perceptron/blob/main/src/mlp_standrad.py)* file contains the implementation of a multilayer perceptron (MLP) using a standard approach, which includes a specified number of input and output neurons, hidden layers, and training epochs. This MLP utilizes a sigmoid activation function and gradient descent with backpropagation to update the weights and biases iteratively, aiming to minimize the mean squared error (MSE) between the predicted and actual outputs during training.
+The *[mlp_standard.py](https://github.com/jkskw/XOR_Perceptron/blob/main/src/mlp_standard.py)* file contains the implementation of a multilayer perceptron (MLP) using a standard approach, which includes a specified number of input and output neurons, hidden layers, and training epochs. This MLP utilizes a sigmoid activation function and gradient descent with backpropagation to update the weights and biases iteratively, aiming to minimize the mean squared error (MSE) between the predicted and actual outputs during training.
 
 <h3 id="momentum">mlp_momentum.py</h3>
 
